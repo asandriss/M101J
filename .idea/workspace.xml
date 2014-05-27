@@ -56,14 +56,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldSparkFreemarkerStyle.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HelloWorldSparkFreemarkerStyle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldSparkFreemarkerStyle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9467919" vertical-offset="24" max-vertical-offset="816">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="816">
+              <caret line="40" column="5" selection-start-line="17" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#929#945#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldAllTogether.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldAllTogether.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6337115" vertical-offset="17" max-vertical-offset="884">
+              <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,8 +116,8 @@
       <file leaf-file-name="HelloWorldMongoDbStyle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldMongoDbStyle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/hello.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldFreemarkerStyle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldSparkFreemarkerStyle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldAllTogether.java" />
       </list>
     </option>
   </component>
@@ -283,29 +296,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
-  <component name="RunManager" selected="Application.HelloWorldSparkFreemarkerStyle">
-    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tengen.App" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M101J" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HelloWorldAllTogether">
     <configuration default="false" name="HelloWorldMongoDbStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tengen.HelloWorldMongoDbStyle" />
       <option name="VM_PARAMETERS" />
@@ -368,6 +359,26 @@
     </configuration>
     <configuration default="false" name="HelloWorldSparkFreemarkerStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tengen.HelloWorldSparkFreemarkerStyle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M101J" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HelloWorldAllTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tengen.HelloWorldAllTogether" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -516,19 +527,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.App" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldMongoDbStyle" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldSparkStyle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldFreemarkerStyle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HelloWorldSparkFreemarkerStyle" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldMongoDbStyle" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldSparkStyle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldFreemarkerStyle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldSparkFreemarkerStyle" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HelloWorldAllTogether" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldSparkFreemarkerStyle" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldFreemarkerStyle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldSparkStyle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldMongoDbStyle" />
-        <item index="4" class="java.lang.String" itemvalue="Application.App" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldAllTogether" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldSparkFreemarkerStyle" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldFreemarkerStyle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldSparkStyle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorldMongoDbStyle" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -701,14 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldMongoDbStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="825">
@@ -756,11 +759,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldSparkFreemarkerStyle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9467919" vertical-offset="24" max-vertical-offset="816">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="816">
+          <caret line="40" column="5" selection-start-line="17" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#929#945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldMongoDbStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloWorldAllTogether.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6337115" vertical-offset="17" max-vertical-offset="884">
+          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
