@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by fedor on 27.5.14..
+ * Created by FedorH on 27.5.14..
  */
 public class HelloWorldFreemarkerStyle {
     public static void main(String[] args) {
